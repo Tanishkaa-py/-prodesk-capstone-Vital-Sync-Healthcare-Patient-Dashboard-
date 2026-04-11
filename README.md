@@ -232,20 +232,8 @@ CLOUDINARY_API_SECRET=...
 
 ---
 
-## 🎓 Evaluation Criteria
-
-This project is evaluated on:
-- ✅ Clean, scalable code architecture
-- ✅ Proper role-based authentication & route protection
-- ✅ All core features fully functional
-- ✅ Modern, responsive UI design
-- ✅ Well-structured API with error handling
-- ✅ Deployed and accessible production URL
-
----
-
 <div align="center">
 
-**Built with hardwork , consistency and dedication  as part of the ProDesk Internship Capstone — Week 13 to 17**
+**Built with hardwork , consistency and dedication  as part of the ProDesk Internship Capstone - Week 13 to 17**
 
 </div>
