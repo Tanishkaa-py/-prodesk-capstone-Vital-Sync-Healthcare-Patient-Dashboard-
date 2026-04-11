@@ -246,6 +246,6 @@ This project is evaluated on:
 
 <div align="center">
 
-**Built with ❤️ as part of the ProDesk Internship Capstone — Week 13 to 17**
+**Built with hardwork , consistency and dedication  as part of the ProDesk Internship Capstone — Week 13 to 17**
 
 </div>
