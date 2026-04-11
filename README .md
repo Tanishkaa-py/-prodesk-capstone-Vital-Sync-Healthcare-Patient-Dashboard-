@@ -145,21 +145,21 @@ prodesk-capstone-VitalSync/
 
 ## 🖼️ UI Wireframes
 
-> **Figma Design File:** [🔗 Add your Figma link here after designing]
+> **Figma Design File:** **
+**[🔗 Add your Figma link here after designing]
 
 Screens designed:
-1. Login / Role Selection Page
-2. Patient Dashboard (main view)
-3. Doctor Dashboard (main view)
-4. Appointment Booking Flow
+1. ([Login / Role Selection Page](https://www.figma.com/make/WM0BNFNOroXpBDhnFyz0pM/prodesk-vital-sync-login-page?t=eLStvlcab9o1PYNa-6))
+2.([Patient Dashboard (main view)](https://www.figma.com/make/MegDWbBhvXSkXNJZWAKseU/Patient-Dashboard-Design?t=eLStvlcab9o1PYNa-6))
+3. ([Doctor Dashboard (main view)](https://www.figma.com/make/sVlQBps0zg1XUnurW5ufVz/Doctor-Dashboard?t=eLStvlcab9o1PYNa-6))
+4. ([Appointment Booking Flow](https://www.figma.com/make/ylCbrio9XHuRokEKeI1cO0/Appointment-Booking-Screen?t=eLStvlcab9o1PYNa-6))
 
 ---
 
 ## 🗃️ Database Architecture (ERD)
 
-> **ERD Diagram:** See `/docs/erd-diagram.png` below
-
-![ERD Diagram](./docs/erd-diagram.png)
+> **ERD Diagram:** 
+<img width="770" height="774" alt="image" src="https://github.com/user-attachments/assets/ffb9b60b-dbb7-4ee3-924c-42f90f687b63" />
 
 **Collections:**
 - `users` — Stores all users with a `role` field (doctor | patient)
