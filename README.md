@@ -9,7 +9,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![NextAuth.js](https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-**Track:** Fullstack | **Intern:** [Your Name] | **Cohort:** ProDesk Internship Week 13–17
+**Track:** Fullstack | **Intern:** Tanishka Jain | **Cohort:** ProDesk Internship Week 13–17
 
 </div>
 
